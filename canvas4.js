@@ -438,11 +438,11 @@ function initialisation()
 	// --- DEBUT DE VOS MODIFICATIONS ---
 	// Ici, on définit l'équation : ax + b = cx + d
 	
-	// Exemple pour : 2 Pomme + 14 = 5 pomme +5
+	// Exemple pour : 2 Pomme + 9 = 5 pomme +5
 	nbxg = 2;   // Nombre de Pommes à GAUCHE (a)
-	nbg  = 14;   // Nombre d'unités à GAUCHE (b)
+	nbg  = 9;   // Nombre d'unités à GAUCHE (b)
 	
-	nbxd = 5;   // Nombre de Pommes à DROITE (c)
+	nbxd = 4;   // Nombre de Pommes à DROITE (c)
 	nbd  = 5;  // Nombre d'unités à DROITE (d)
 
 	// CALCUL AUTOMATIQUE DE LA VALEUR DE LA POMME
